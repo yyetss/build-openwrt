@@ -11,6 +11,5 @@ git clone https://github.com/lisaac/luci-app-dockerman package/luci-app-dockerma
 git clone https://github.com/kenzok8/small package/kenzol8/small
 git clone https://github.com/kenzok8/openwrt-packages package/kenzol8/package
 git clone https://github.com/tty228/luci-app-serverchan package/luci-app-serverchan
-git clone https://github.com/ccbcfan/openwrt-filerun/tree/master/luci-app-filerun package/luci-app-filerun
-git clone https://github.com/ccbcfan/openwrt-filerun/tree/master/filerun package/filerun
+git clone https://github.com/ccbcfan/openwrt-filerun package/filerun
 
